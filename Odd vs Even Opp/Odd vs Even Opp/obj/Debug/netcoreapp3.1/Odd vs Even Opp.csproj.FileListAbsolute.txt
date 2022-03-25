@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\bin\Debug\netcoreapp3.1\Odd vs Even Opp.exe
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\bin\Debug\netcoreapp3.1\Odd vs Even Opp.deps.json
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\bin\Debug\netcoreapp3.1\Odd vs Even Opp.runtimeconfig.json
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\bin\Debug\netcoreapp3.1\Odd vs Even Opp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\bin\Debug\netcoreapp3.1\Odd vs Even Opp.dll
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\bin\Debug\netcoreapp3.1\Odd vs Even Opp.pdb
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\obj\Debug\netcoreapp3.1\Odd vs Even Opp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\obj\Debug\netcoreapp3.1\Odd vs Even Opp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\obj\Debug\netcoreapp3.1\Odd vs Even Opp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\obj\Debug\netcoreapp3.1\Odd vs Even Opp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\obj\Debug\netcoreapp3.1\Odd vs Even Opp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\obj\Debug\netcoreapp3.1\Odd vs Even Opp.dll
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\obj\Debug\netcoreapp3.1\Odd vs Even Opp.pdb
+C:\Users\Admin\source\repos\Odd vs Even Opp\Odd vs Even Opp\obj\Debug\netcoreapp3.1\Odd vs Even Opp.genruntimeconfig.cache
